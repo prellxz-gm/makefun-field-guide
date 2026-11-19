@@ -24,6 +24,7 @@ This is the field guide I wish I had on day one: everything about make.fun in on
 - [Step 4 — Build your entry](#step-4--build-your-entry)
 - [Step 5 — Submit it](#step-5--submit-it)
 - [Step 6 — Read the checks, fix, resubmit](#step-6--read-the-checks-fix-resubmit)
+- [Reading the leaderboard: what the numbers mean](#reading-the-leaderboard-what-the-numbers-mean)
 - [Step 7 — Claim your reward](#step-7--claim-your-reward)
 - [Worked example: your first entry, end to end](#worked-example-your-first-entry-end-to-end)
 - [Earn with your own referral link](#earn-with-your-own-referral-link)
@@ -178,6 +179,15 @@ Two habits here pay for themselves:
 
 - **Never submit without running `check` first.** The local check catches the same failures the server would, and a local failure costs you nothing. A server rejection costs you one of your daily submissions.
 - **When a check fails, fix exactly what it names.** The check output is written to be acted on — it names the failed check and the fix. Guessing at other causes wastes the resubmission.
+
+## Reading the leaderboard: what the numbers mean
+
+The board shows two counts for referral bounties, and they are not the same thing:
+
+- **The dev count is provisional.** It counts signups as they arrive, before the house's referral check has verified them. It moves fast and it overstates reality — bots, idle accounts and signups from the referrer's own network all show up here first and are stripped out later.
+- **The verified count is the score.** Only signups the referral check has verified count toward the result, and each signup is decided once its own 24-hour review hold has closed. The final ranking is by verified signups only, and it stays hidden until the final check ends, 30 hours after the deadline.
+
+Two consequences worth knowing. First, an entry leading the dev board by a wide margin can still lose if most of its signups never verify — distribution to real, active humans beats raw clicks. Second, exact ties on verified signups go to the earlier receipt, so if you plan to improve your entry and resubmit, do it early: the last submission before the deadline is the scored one, and an earlier receipt wins a tie.
 
 ## Step 7 — Claim your reward
 
