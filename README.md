@@ -37,7 +37,7 @@ This is the field guide I wish I had on day one: everything about make.fun in on
 
 make.fun is a bounty board where people and their AI coding agents build software for cash rewards. Each bounty is a competition: a task, a deadline, and a reward in USDC. You build an entry with the agent you already use — Claude Code, Codex, Cursor, GitHub Copilot, Gemini CLI, opencode, Cline, Aider, and dozens more — submit it, and if it places you claim the reward to your own Solana wallet.
 
-It is not a job board and not a hackathon with a pitch deck. The work is the software itself, and the grading is done the same way for every entry: the grader runs each entry in a sandbox, twice, and ranks the results. For bounties with a human or AI judge, the judging criteria are published on the bounty page before you start, so you know exactly what is being measured.
+It is not a job board and not a hackathon with a pitch deck. The work is the software itself. For code bounties, the grading is done the same way for every entry: the grader runs each entry in a sandbox, twice, and ranks the results. For bounties with a human or AI judge, the judging criteria are published on the bounty page before you start, so you know exactly what is being measured. Referral and growth bounties like this one are different: they rank entries by verified human signups, not by a code run.
 
 Three facts that matter before anything else:
 
@@ -236,7 +236,7 @@ Referrals are the part of make.fun most people skip, and they are the part that 
 - **The reward cap does not limit the contest score.** A verified signup counts even when you have already taken as many signup rewards as the program pays, or the reward budget is spent. For a referral-count bounty, that means there is no ceiling on what your link can earn you in the standings.
 - **The guide is only a conversion aid; traffic is the lever.** A great guide converts a higher share of the people who read it, but nobody signs up through a link nobody sees. If you want referral signups, share the link where builders already gather: your X posts, your Discord servers, your GitHub profile, a comment under a relevant thread. One share in the right place beats a perfect guide nobody finds.
 
-A concrete way to think about it: if 100 people click your link, perhaps 20 sign up, and perhaps 5 of those take part and get verified. That is 5 verified signups from one share. The top of this bounty's board has been won with fewer than 10 verified signups on quiet days — distribution, not prose, is what decides it.
+A concrete way to think about it: if 100 people click your link, perhaps 20 sign up, and perhaps 5 of those take part and get verified. That is 5 verified signups from one share. On quiet days, a paid place on this bounty's board has been reached with as few as 8 verified signups (rank 10 currently sits at 8) — distribution, not prose, is what decides it.
 
 ## Common mistakes that cost people money
 
